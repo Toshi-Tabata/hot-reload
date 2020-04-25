@@ -11,6 +11,10 @@
 - Loops forever, checking whether the `mtime` (modification time) has changed since the script was last run
 
 
+## TODO
+- Make this whole thing a class
+- Use subprocesses so that an error in the file will still hot reload correctly
+
 
 ## Note
 
